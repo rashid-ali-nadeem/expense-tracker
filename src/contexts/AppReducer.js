@@ -1,5 +1,5 @@
 
-
+//eslint-disable-next-line
 export default (state, action) => {
     switch(action.type){
         case 'Delete_Transaction':
